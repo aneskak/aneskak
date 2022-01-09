@@ -15,7 +15,7 @@
 
 ## Olá, eu sou a Aneska! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-### Sobre mim
+### Sobre mim 🌸
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
 <p> - 🐞 Analista de Testes Jr na Global Web Cloud. </p>
