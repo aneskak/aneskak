@@ -20,7 +20,7 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
 <p> - 🐞 Analista de Testes Jr na GlobalWeb Cloud. </p>
 <p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 3° semestre. </p>
-<p> - 💻 Interesse: Ruby on Rails, JavaScript, React.js, Node.js, Testes, Automação de Testes, APIs REST, PHP, Laravel, HTML, CSS e Angular. </p>
+<p> - 💻 Interesse: HTML, CSS, JavaScript, React.js, Node.js, Angular, Testes, Automação de Testes, APIs REST, Java, Spring Boot e Ruby on Rails. </p>
 </div>
 
 
