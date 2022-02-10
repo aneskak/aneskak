@@ -34,12 +34,15 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" alt="JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="Ruby" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="GIT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </div>
 
 ## Meus contatos 📱 
