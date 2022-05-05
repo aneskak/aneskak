@@ -18,9 +18,9 @@
 ### Sobre mim 🌸
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
-<p> - 🐞 Analista de Testes Jr na GlobalWeb Cloud. </p>
+<p> - 🐞 Analista de Qualidade de Software Jr na TOTVS S.A. </p>
 <p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 3° semestre. </p>
-<p> - 💻 Interesse: HTML, CSS, JavaScript, React.js, Node.js, Angular, Testes, Automação de Testes, APIs REST, Java, Spring Boot e Ruby on Rails. </p>
+<p> - 💻 Interesse: HTML, CSS, JavaScript, Node.js, Angular, Testes, Automação de Testes, Python, Java, Spring Framework. </p>
 </div>
 
 
@@ -35,8 +35,6 @@
     <img height="40" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="JAVA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" alt="Ruby" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
