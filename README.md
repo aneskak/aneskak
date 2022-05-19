@@ -1,11 +1,11 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="300" src="qa.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="moca.gif" />
-  </a>
-</p>
+
+  <div align-items="center">
+      <img width="300" src="qa.png" />
+      <img width="450" src="moca.gif" />
+  </div>
+  
+    
+
 <div align="center">
   <a href="https://github.com/aneskak">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aneskak&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
