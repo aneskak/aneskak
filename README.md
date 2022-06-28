@@ -19,7 +19,7 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
 <p> - 🐞 Analista de Qualidade de Software Jr na TOTVS S.A. </p>
-<p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 3° semestre. </p>
+<p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 4° semestre. </p>
 <p> - 💻 Interesse: HTML, CSS, JavaScript, Node.js, Angular, Testes, Automação de Testes, Python, Java, Spring Framework. </p>
 </div>
 
