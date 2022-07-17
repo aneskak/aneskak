@@ -1,6 +1,9 @@
 
-  <div>
-      <img width="450" src="moca.gif" />
+  <div><div>
+      <img width="300" align="center" src="qa.png" />
+      
+  </div>
+  <div><img width="450" src="moca.gif" /></div>
   </div>
   
     
