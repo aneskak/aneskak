@@ -1,6 +1,5 @@
 
-  <div align-items="center">
-      <img width="300" src="qa.png" />
+  <div>
       <img width="450" src="moca.gif" />
   </div>
   
