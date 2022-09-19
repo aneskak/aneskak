@@ -1,10 +1,10 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="abc.png" />
+    <img align="center" width="300" src="qa.png" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="a.gif" />
+    <img align="center" width="450" src="moca.gif" />
   </a>
 </p>
 
