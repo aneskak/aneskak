@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="aa.png" />
+    <img align="center" width="300" src="abc.png" />
   </a>
   <a href="#">
     <img align="center" width="450" src="a.gif" />
