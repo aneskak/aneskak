@@ -64,5 +64,8 @@
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/aneskak/count.svg" />
- </p>
+</p>
 
+  ![Snake animation](https://github.com/aneskak/aneskak/blob/output/github-contribution-grid-snake.svg)
+
+ 
