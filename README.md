@@ -8,14 +8,6 @@
   </a>
 </p>
 
-    
-
-<div align="center">
-  <a href="https://github.com/aneskak">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aneskak&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneskak&layout=compact&langs_count=7&theme=omni"/>
-  </a>
-</div>
 
 ## Olá, eu sou a Aneska! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
