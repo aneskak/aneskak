@@ -14,8 +14,8 @@
 ### Sobre mim 🌸
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
-<p> - 🐞 Analista de Qualidade de Software Jr na TOTVS S.A. </p>
-<p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 4° semestre. </p>
+<p> - 🐞 Analista de Engenharia de Software Jr na Porto </p>
+<p> - 👩‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, cursando o 5° semestre. </p>
 <p> - 💻 Interesse: HTML, CSS, JavaScript, Angular, Automação de Testes, Python, Selenium, Java, Spring Framework. </p>
 </div>
 
