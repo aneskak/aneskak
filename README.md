@@ -1,5 +1,5 @@
 
-## Olá, eu sou a Aneska! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## <img height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>      Olá, eu sou a Aneska! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Sobre mim 🌸
 <div style="display: inline_block"  >
