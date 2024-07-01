@@ -1,22 +1,11 @@
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="300" src="ane.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="image.gif" />
-  </a>
-</p>
-
-
 ## Olá, eu sou a Aneska! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Sobre mim 🌸
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
-<p> - 🐞 Analista de Engenharia de Software Jr na Porto </p>
+<p> - 🐞 Junior Software Engineer </p>
 <p> - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas. </p>
-<p> - 💻 Interesse: HTML, CSS, JavaScript, Angular, Automação de Testes, Python, Selenium, Java, Spring Framework. </p>
 </div>
 
 
