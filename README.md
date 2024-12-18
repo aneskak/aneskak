@@ -4,7 +4,7 @@
 ### Sobre mim 🌸
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="lindinha.gif?raw=true" />
-<p> - 🐞 Junior Software Engineer </p>
+<p> - 🐞 Software Engineer </p>
 <p> - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas. </p>
 </div>
 
